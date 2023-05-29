@@ -1,19 +1,20 @@
 ---
 title: "Alex Goodman's Website"
-resources: Resume (4).pdf
+resources: 
+  - Resume (4).pdf
 about:
   template: trestles
   links: 
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: links.qmd
-        text: Links
+      - href: https://www.linkedin.com/in/alex-goodman-b47470248/
+        text: LinkedIn
+      - href: https://github.com/Tallex0
+        text: GitHub
       - href: Resume (4).pdf
         text: Resume
       - href: projects.qmd
         text: Projects
 ---
 
-Welcome to my website.
+Welcome to my website! Hi friends! I am a statistics student at Cal Poly SLO. I enjoy statistics and working with data, and am on a path forward towards a great career. My hobbies include running, travel, guitar, and reading.
