@@ -12,12 +12,11 @@ website:
         text: About
       - href: links.qmd
         text: Links
-      - href: Resume.html
+      - href: Resume (4).pdf
         text: Resume
       - href: projects.qmd
         text: Projects
-resources: Resume.html
-reference: /Users/tallex/Downloads/Resume.html
+
 format:
   html:
     theme: minty

@@ -1,5 +1,19 @@
 ---
 title: "Alex Goodman's Website"
+resources: Resume (4).pdf
+about:
+  template: trestles
+  links: 
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: links.qmd
+        text: Links
+      - href: Resume (4).pdf
+        text: Resume
+      - href: projects.qmd
+        text: Projects
 ---
 
-Welcome to my website!
+Welcome to my website.
