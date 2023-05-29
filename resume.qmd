@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+Here is my resume
+
+[Resume](file:///Users/tallex/Downloads/Resume.html)
