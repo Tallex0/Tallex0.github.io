@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+Here are some projects of mine:
+
+[R portfolio](https://github.com/Tallex0/STAT331_portfolio_template)
+
+*Note: go to supporting_artifacts -> continued_learning -> revisions to see the work
+
+
+[One Number Story](file:///Users/tallex/Downloads/One%20Number%20Story%20(1)%20(1).pdf)
+
+[Copy the Masters](file:///Users/tallex/Desktop/STAT365/STAT365%20Project/Copy-the-Master.html)

@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Tallex0.github.io",
+    "title": "Alex Goodman’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi friends! I am a statistics student at Cal Poly SLO. I enjoy statistics and working with data, and am on a path forward towards a great career. My hobbies include running, travel, guitar, and reading."
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
+    "section": "",
+    "text": "Here are some links:\nEmail: agoodman252@gmail.com\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is my resume\nResume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some projects of mine:\nR portfolio\n*Note: go to supporting_artifacts -&gt; continued_learning -&gt; revisions to see the work\nOne Number Story\nCopy the Masters"
   }
 ]

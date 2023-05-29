@@ -2,8 +2,5 @@
 title: "About"
 ---
 
-About this site
+Hi friends! I am a statistics student at Cal Poly SLO. I enjoy statistics and working with data, and am on a path forward towards a great career. My hobbies include running, travel, guitar, and reading.
 
-```{r}
-1 + 1
-```
