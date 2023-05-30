@@ -1,7 +1,7 @@
 ---
 title: "Alex Goodman"
 resources: 
-  - Resume (4).pdf
+  - ResumePic.png
 about:
   template: trestles
   links: 
