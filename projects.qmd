@@ -1,14 +1,24 @@
 ---
 title: "Projects"
+listing:
+  contents: portfolio_files
 ---
 
-Here are some projects of mine:
+A few of my projects are showcased below.
 
-[R portfolio](https://github.com/Tallex0/STAT331_portfolio_template)
+Data Visualization Project for Class: World's Tallest Ferris Wheels, Pre-2018 \n
+-This was a project I worked on for a class to get my first experience with data visualization with Tableau, and I chose to work with Ferris Wheels. \n
 
-*Note: go to supporting_artifacts -> continued_learning -> revisions to see the work
+[Ferris Wheel Dashboard](https://public.tableau.com/app/profile/alex.goodman8645/viz/Dashboard_16858448451090/Dashboard1?publish=yes)
 
 
-[One Number Story](file:///Users/tallex/Downloads/One%20Number%20Story%20(1)%20(1).pdf)
 
-[Copy the Masters](file:///Users/tallex/Desktop/STAT365/STAT365%20Project/Copy-the-Master.html)
+
+Data Visualization Self Project: Most Valuable Comic Books \n
+-This was a self project I decided to work on over the summer, detailing the most expensive comics of every year sold for the most money. \n
+
+[Comic Book Dashboard](https://public.tableau.com/app/profile/alex.goodman8645/viz/PriceyComicsTable1/Dashboard1?publish=yes)
+
+
+
+The two projects below were from a statistical computing with R class that I took. We had practice with filtering data, wrangling data, creating meaningful tables in R with the kable package, writing user-defined functions, and more.

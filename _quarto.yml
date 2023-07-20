@@ -3,16 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Tallex0.github.io"
+  title: "Alex Goodman"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: links.qmd
         text: Links
-      - href: Resume (4).pdf
+      - href: ResumePic.png
         text: Resume
       - href: projects.qmd
         text: Projects
