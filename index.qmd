@@ -5,16 +5,16 @@ resources:
 about:
   template: trestles
   links: 
-      - href: https://www.linkedin.com/in/alex-goodman-b47470248/
-        text: LinkedIn
-      - href: https://github.com/Tallex0
-        text: GitHub
+      - href: links.qmd
+        text: Links
       - href: ResumePic.png
         text: Resume
       - href: projects.qmd
         text: Projects
 ---
 
+![](profile.jpeg)
+
 Welcome to my website! I am a statistics student at Cal Poly SLO. I enjoy statistics and working with data, and I am on a path forward towards a great career. My hobbies include running, travel, guitar, and reading.
 
-Skills/Relevant coursework: SAS, JMP, R, Python, Tableau, Excel, Word, Statistical Computing in R, Statistical Computing in SAS, Linear Algebra, Methods of Proof, Probability, Calculus I-IV, Applied Linear Models.
+Skills/Relevant coursework: SAS, JMP, R, Python, Tableau, Excel, Word, Statistical Computing in R, Statistical Computing in SAS, Linear Algebra, Methods of Proof, Probability Theory, Calculus I-IV, Applied Linear Models, Multilevel and Mixed Modeling, Survey Sampling and Methodology.
